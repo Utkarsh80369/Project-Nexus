@@ -59,7 +59,7 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone []()
+    git clone [https://github.com/Utkarsh80369/Project-Nexus](https://github.com/Utkarsh80369/Project-Nexus)
     cd Project-Nexus
     ```
 
